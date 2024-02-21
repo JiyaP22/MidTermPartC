@@ -60,9 +60,7 @@ public class TestUserProfile {
             case 9:
                 genre = "Sci-Fi";
                 break;
-            default:
-                genre = "Unknown";
-                break;
+            
         }
         
         System.out.println("\nUser Profile Created Successfully!");
